@@ -6302,3 +6302,9 @@ blockquote.pullquote.right {
   display: none;
   background: rgba(0,0,0,0.6);
 }
+#site-title {
+  display: none !important;
+}
+#page-header.full_page::before {
+  background: none !important;
+}
