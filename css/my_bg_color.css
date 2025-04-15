@@ -5,3 +5,7 @@
 #site-title {
     display: none !important;
 }
+
+#page-header.post-bg::before {
+    filter: none !important;
+}
