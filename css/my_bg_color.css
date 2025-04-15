@@ -1,11 +1,3 @@
-#web_bg {
-    background-image: linear-gradient(-225deg,#dfbacd 0,#B8DCFF 48%,#58abf3 100%)
-}
-
 #site-title {
-    display: none !important;
-}
-
-#page-header.post-bg::before {
-    filter: none !important;
+  display: none !important;
 }
